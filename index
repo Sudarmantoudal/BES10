@@ -71,7 +71,7 @@
  <body> 
   <div class="container"> 
    <div class="logo"> 
-   <img src="images/BES.png" alt="BES">
+   <img src="images/BES.png" alt="https://github.com/Sudarmantoudal/BES10/blob/0ee9dfbac4cd1dc5c266a7292dc69165fa168d23/images/BES.png">
    </div> 
    <h1>Simulasi Kredit Syariah</h1>
    <div class="form-group"> <label for="harga-barang">Harga Barang</label> 
